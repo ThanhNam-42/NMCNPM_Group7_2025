@@ -209,7 +209,7 @@ src/app/
 - 👨‍💻 **Developer**: Nguyễn Thành Nam - Trương Tuấn Huy
 - 🏫 **Institution**: [Học viện Công nghệ Bưu chính viễn thông - PTIT/Khoa Công nghệ thông tin 2]
 - 📧 **Email**: ntnam.rock@gmail.com
-- 📱 **Phone**: +84 339110261
+- 📱 **Phone**: +84 345887140
 
 ## 📚 Tài liệu tham khảo
 
