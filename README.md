@@ -206,7 +206,7 @@ src/app/
 
 ## 📞 Liên hệ & Hỗ trợ
 
-- 👨‍💻 **Developer**: Nguyễn Thành Nam - Trương Tuấn Huy
+- 👨‍💻 **Developer**: Nguyễn Thành Nam 
 - 🏫 **Institution**: [Học viện Công nghệ Bưu chính viễn thông - PTIT/Khoa Công nghệ thông tin 2]
 - 📧 **Email**: ntnam.rock@gmail.com
 - 📱 **Phone**: +84 345887140
