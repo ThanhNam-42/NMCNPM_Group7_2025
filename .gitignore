@@ -43,3 +43,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+desktop.ini
+hs_err_pid*.log
+replay_pid*.log
